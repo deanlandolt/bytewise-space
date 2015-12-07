@@ -38,7 +38,7 @@
     "list-stream": "1.0.0",
     "memdb": "1.0.1",
     "memdown": "^1.1.0",
-    "multilevel": "7.2.1",
+    "multilevel": "7.2.2",
     "rimraf": "2.3.3",
     "tape": "4.0.0"
   }
