@@ -35,7 +35,7 @@
     "faucet": "0.0.1",
     "leveldown": "1.0.6",
     "levelup": "1.2.1",
-    "list-stream": "1.0.0",
+    "list-stream": "1.0.1",
     "memdb": "1.0.1",
     "memdown": "^1.1.0",
     "multilevel": "7.2.1",
